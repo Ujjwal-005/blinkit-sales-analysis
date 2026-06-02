@@ -1,4 +1,4 @@
-# Ecommerce Business Impact Analysis After 10-Minute Delivery Ban
+# Blinkit Business Impact Analysis After 10-Minute Delivery Ban
 
 ## Project Overview
 
