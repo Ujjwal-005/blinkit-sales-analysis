@@ -1,77 +1,61 @@
-# BlinkIt-eCommerce_sales_data_analysis
-Project Overview
-This report provides an overview of the Blinkit Grocery Project, analyzing key performance indicators (KPIs) 
-and metrics to identify areas for improvement and suggest recommendations for future success.
-The project was undertaken using Excel and Power BI for data analysis and visualization.
+# Zepto Business Impact Analysis After 10-Minute Delivery Ban
 
-- **Project objectives:** 
+## Project Overview
 
-The primary objective of the Blinkit Grocery Project is to:
+This project analyzes the potential business impact of restrictions on ultra-fast 10-minute delivery services on Zepto's operations and growth strategy.
 
-Increase sales and revenue: Maximize revenue generation through efficient operations and targeted marketing.
-Enhance customer experience: Improve customer satisfaction and loyalty through timely delivery, high-quality products, and personalized service.
-Optimize operational efficiency: Streamline processes, reduce costs, and improve inventory management.
-Data Analysis and Visualization
+Using business analytics and data visualization techniques, the dashboard evaluates how delivery regulations can affect customer behavior, revenue generation, operational efficiency, and market competitiveness.
 
-The project utilized Excel and Power BI to analyze a comprehensive dataset related to Blinkit's grocery operations. Key KPIs and metrics analyzed include:
+## Objectives
 
+* Analyze the effect of delivery-time restrictions on quick-commerce operations.
+* Evaluate changes in customer demand and purchasing behavior.
+* Identify operational challenges resulting from longer delivery windows.
+* Provide data-driven recommendations for sustainable growth.
 
- **1.**  _[Live Dashboard)(https://app.powerbi.com/view?r=eyJrIjoiZDM2YmZiNTAtZTFlNS00YTBjLWJmNzktYTg3MjBiMmFjYzllIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)_
+## Tools Used
 
+* Power BI
+* Excel
+* DAX
+* Data Cleaning & Transformation
 
-- **Key Performance Indicators (KPIs) & Metrics:** 
-Revenue & Sales:
+## Key Analysis Areas
 
-Total Sales: $1.2M
-Average Sales: $141
-Number of Items Sold: 8,523
+### Customer Behavior
 
-Customer Satisfaction: 
+* Impact on order frequency
+* Customer retention trends
+* Changes in average basket size
 
-Average Rating: 3.9
+### Business Performance
 
-Outlet Performance: 
+* Revenue impact analysis
+* Delivery efficiency metrics
+* Market share implications
 
-Sales by Outlet Location (Tier 1, 2, 3)
-Sales by Outlet Size (Small, Medium, Large)
-Sales by Outlet Type (Grocery Store, Supermarket 1-3)
+### Operational Insights
 
-Item Performance: 
+* Rider utilization analysis
+* Delivery time performance
+* Cost optimization opportunities
 
-Sales by Category (Fruits & Vegetables, Snack Foods, etc.)
-Sales by Fat Content (Low-Fat, Regular)
+## Key Findings
 
-- **Key Findings:**
-- 
-Outlet Performance: Tier 3 outlets consistently outperform Tier 1 and Tier 2 outlets in terms of sales. Medium-sized outlets exhibit the highest sales compared to small and large outlets.
-Item Performance: Fruits & Vegetables and Snack Foods are the top-selling categories. Low-fat items demonstrate higher demand than regular items.
-Customer Behavior: Customer order frequency and lifetime value vary significantly, indicating opportunities for targeted customer segmentation and loyalty programs.
-Operational Challenges: Inventory management and order fulfillment present areas for improvement to optimize operational efficiency.
+* Extended delivery timelines may reduce impulse purchases.
+* Operational pressure on delivery partners decreases.
+* Profitability can improve through optimized logistics.
+* Customer retention depends on service quality beyond delivery speed.
 
-- **Role of reports:**
-- 
-  Outlet Expansion: Focus on expanding operations in Tier 3 locations and optimizing medium-sized outlets.
-  Item Strategy: Expand the range of high-selling categories (Fruits & Vegetables, Snack Foods) and promote low-fat items through targeted marketing.
-  Customer Segmentation: Implement customer segmentation strategies to tailor marketing efforts and improve customer retention.
+## Skills Demonstrated
 
-  Operational Optimization:
-   
-  Implement a robust inventory management system to minimize stockouts and overstocking.
-  Streamline order fulfillment processes to improve efficiency and reduce delivery times.
+* Business Analysis
+* Data Visualization
+* KPI Development
+* Dashboard Design
+* DAX Calculations
+* Strategic Business Insights
 
+## Author
 
-
-## Technical & Soft Skills:
-- [x]	Proficiency in ETL methodology (Extract, Transform, Load) using both PowerBI and Excel.
-- [x]	Data Analysis and Manipulation: Proficiency in Excel functions (VLOOKUP, SUMIF, Pivot Tables), data cleaning and transformation, and data analysis techniques
-- [x]	Data Analysis and Manipulation: Proficiency in Excel functions (VLOOKUP, SUMIF, Pivot Tables), data cleaning and transformation, and data analysis techniques
-- [x]	Data Storytelling: Ability to communicate data insights effectively through clear and concise visualizations.
-## Soft Skills:
-- [x]	Refined understanding of Sale Reports
-- [x]	Designing user-centric reports with empathy in mind.
-- [x]	Optimization of report generation through meticulous fine-tuning.
-- [x]	Developing a systematic approach to devising a report building plan.
-- [x]	Learnt to validate the data while working with Power BI and Excel.
-## Conclusion :
-The Blinkit Grocery Project provided valuable insights into the company's operations and identified key areas for improvement. By implementing the recommendations outlined in this report, Blinkit can enhance its performance, improve customer satisfaction, and achieve sustainable growth in the competitive grocery market.
-
+Ujjwal Singh
